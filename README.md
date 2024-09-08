@@ -20,6 +20,6 @@ Feel free to explore, adapt, and use these scripts to suit your needs. Contribut
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/tatescode/bash-scripts/main/
+   git clone https://github.com/tatescode/bash-scripts/tree/main/
    cd your-repository
 
